@@ -1,0 +1,10 @@
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\bin\Debug\Calculos.exe
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\obj\Debug\Calculos.Form1.resources
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\obj\Debug\Calculos.exe
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\obj\Debug\Calculos.pdb
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Calculos\Calculos\obj\Debug\Calculos.csprojAssemblyReference.cache
