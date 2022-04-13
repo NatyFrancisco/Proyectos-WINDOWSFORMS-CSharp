@@ -1,0 +1,10 @@
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Form1.resources
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Properties.Resources.resources
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
+C:\Users\Intel\Documents\Proyectos C#\WINDOWS FORMS\CENTU\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.AssemblyReference.cache
